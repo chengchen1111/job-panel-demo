@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.login_form {
+    max-width: 500px;
+    padding: 50px;
+    outline: double;
+    background-color: #f3f3f3;
+}
+
+.reg_form input{
+    width: 70%
+
+
+}
