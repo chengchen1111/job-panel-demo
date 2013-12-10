@@ -12,6 +12,8 @@ body {
 
 .reg_form input{
     width: 70%
+}
 
-
+input{
+    margin-top: 1px;
 }
